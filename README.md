@@ -1,7 +1,7 @@
 I have been familiar with Frontend for almost two years and I am interested in working in this field.
 
 # Education
-Computer engineering student
+Computer engineering student. University of Science and Culture
 
 
 # Characteristics
