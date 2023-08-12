@@ -14,11 +14,12 @@ English: Intermediate
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-
 ![Axios](https://img.shields.io/badge/AXIOS-red.svg?style=for-the-badge&logo=axios&logoColor=white)
+
+
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![CSS Module](https://img.shields.io/badge/css%20modules-white?style=for-the-badge&logo=css%20modules&logoColor=blue)
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -26,3 +27,5 @@ English: Intermediate
 
 # Familiar With
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![RESTful-API](https://img.shields.io/badge/RESTful--API-%20red?style=for-the-badge)
+
