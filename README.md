@@ -8,6 +8,9 @@ Persian: Native
 
 English: Intermediate
 
+# Awards
+**CS50:** [CS50x(Computer Science)](https://cs50.harvard.edu/certificates/1715a67e-408b-4d74-abc5-fa67ae67613f)
+
 
 # Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
