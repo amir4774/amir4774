@@ -9,6 +9,8 @@ Persian: Native
 English: Intermediate
 
 # Awards
+**Meta:** [Advanced React](https://www.coursera.org/account/accomplishments/certificate/WD28HWUH86JL)
+
 **CS50:** [CS50x(Computer Science)](https://cs50.harvard.edu/certificates/1715a67e-408b-4d74-abc5-fa67ae67613f)
 
 
