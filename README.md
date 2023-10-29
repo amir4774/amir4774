@@ -1,4 +1,4 @@
-I have been familiar with Frontend for almost one years and I am interested in working in this field.
+I have been familiar with Frontend for almost one year and I am interested in working in this field.
 
 # Education
 Computer engineering student. University of Science and Culture
