@@ -1,4 +1,4 @@
-I have been familiar with Frontend for almost one year and I am interested in working in this field.
+Front-End developer with 2 years of experience delivering user-friendly web applications and efficient internal frameworks using React and Next. Committed to creating high-quality and user-friendly web experiences with high problem-solving. Always eager to take on new challenges and drive continuous improvement.
 
 # Education
 Computer engineering student. University of Science and Culture
