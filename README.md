@@ -1,5 +1,5 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm a Front-End Developer with 1+ years of experience creating intuitive web apps using React & Vue.
+I'm a Front-End Developer with 1+ year of experience creating intuitive web apps using React & Vue.
 
 # Education
 Computer engineering student. University of Science and Culture
